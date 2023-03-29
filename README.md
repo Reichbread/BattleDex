@@ -1,7 +1,7 @@
 # BattleDex
-a Bot for battle with BallsDex bots!
+A Bot for battle with BallsDex bots!
 
-#How make a own BattleDex bot
+# How make a own BattleDex bot
 
 Install zip file of the folder and extract in a folder you will create and name Battledex
 
